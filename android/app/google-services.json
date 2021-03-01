@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15960471520",
+    "project_id": "providerex-edc00",
+    "storage_bucket": "providerex-edc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15960471520:android:8cb3e44f79247951ee1d85",
+        "android_client_info": {
+          "package_name": "com.example.providerEx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15960471520-l0l8jv59utdgjrklprq9q65sln3hcfi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnuUaJ0YWK28KWyig7RcqCs954oFmDvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15960471520-l0l8jv59utdgjrklprq9q65sln3hcfi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
